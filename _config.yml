@@ -1,28 +1,14 @@
-title: Finis Terrae
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 0.9019234960433096
+typography_spectrum: 0.7273057689890265
 color:
-  saturation: 0.8116131
-  brandStrength: 0.3755745012313128
-  lightness: 0.1845878
+  brandStrength: 0.37557450123131275
+  lightness: 0.6293823979794979
+  saturation: 0.8116130756679922
+  rhythmicContrast: 0.316307119326666
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.5430108
-typography_spectrum: 0.1541219
-description: 'A pilgrimage to the former end of the world. '
-layout_spectrum: 0.5537634
 name: Finis Terrae
